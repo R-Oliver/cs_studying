@@ -61,6 +61,9 @@
 <details>
   <summary>Probability: Grinstead, Snell</summary>
 </details>
+<details>
+  <summary>Mathematics for Machine Learning: Deisenroth, Faisal, Ong</summary>
+</details>
 
 ## Completed
 N/A
