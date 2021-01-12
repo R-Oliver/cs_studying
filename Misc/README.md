@@ -1,0 +1,2 @@
+# This section is filled with stuff I haven't gotten around to you but would like to in the future
+The cognitive load here is shedding what isn't important, but keeping references to these things for the future.  As I get around to these things they'll get better organized and put into their proper place.
