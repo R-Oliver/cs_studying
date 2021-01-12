@@ -8,7 +8,7 @@
 ## Queue
 * Google Autopilot
 * Google Zanzibar
-* Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analyticss
+* Lakehouse: A New Generation of Open Platforms that Unify Data Warehousing and Advanced Analytics
 
 ## Completed
 * Snowflake Elastic Data Warehouse

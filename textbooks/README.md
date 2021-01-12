@@ -41,7 +41,7 @@
   <summary>Information Theory: Reza</summary>
 </details>
 <details>
-  <summary>Graph Theery: Trudeau</summary>
+  <summary>Graph Theory: Trudeau</summary>
 </details>
 <details>
   <summary>The Linux Programming Interface: Kerrisk</summary>
