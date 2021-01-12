@@ -14,6 +14,12 @@
 * NICE: Non-Linear Independent Components Estimation
 * Value Prediction Network
 * Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model (MuZero)
+* Understanding the role of individual units in a deep neural network
+* ADAM: A Method for Stochastic Optimization
+* A Conceptual Introduction to Hamiltonian Monte Carlo
+* The Matrix Calculus You Need for Deep Learning
+* Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic
+* Combining Deep Reinforcement Learning and Search for Imperfect-Information Games
 
 ## Completed
 * Attention Is All You Need
