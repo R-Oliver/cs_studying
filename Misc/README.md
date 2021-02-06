@@ -13,6 +13,7 @@ The cognitive load here is shedding what isn't important, but keeping references
 * [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
 * [Zero to Production in Rust](https://www.zero2prod.com/)
 * [Writing an OS in Rust](https://os.phil-opp.com/)
+* [Pingcap Talent Plan](https://github.com/pingcap/talent-plan)
 
 # PL Theory
 * [Writing a Lisp in Rust](https://stopa.io/post/222)
@@ -28,3 +29,7 @@ The cognitive load here is shedding what isn't important, but keeping references
 * [Information Theory](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-441-information-theory-spring-2016/index.htm)
 * [Discrete Stochastic Processes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/index.htm)
 * [Fundamentals of Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-436j-fundamentals-of-probability-fall-2018/index.htm)
+
+# Technologies/Other
+* [Vim](https://www.vim.so/)
+* [Build your own X](https://github.com/danistefanovic/build-your-own-x) 
