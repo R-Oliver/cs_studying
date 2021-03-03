@@ -20,6 +20,10 @@
 * The Matrix Calculus You Need for Deep Learning
 * Model-Predictive Policy Learning with Uncertainty Regularization for Driving in Dense Traffic
 * Combining Deep Reinforcement Learning and Search for Imperfect-Information Games
+* Linear Transformers are Secretly Fast Weight Memory Systems
+* LSTM: A Search Space Odyssey
+* How to Represent Part-Whole Hierarchies in a Neural Network
+* Visualizing MuZero Models
 
 ## Completed
 * Attention Is All You Need
